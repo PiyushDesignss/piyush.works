@@ -1,6 +1,6 @@
 # Piyush Singh
 
-**Mechanical Design Engineer | CAD Enthusiast**
+Mechanical Design Engineer 
 
 📍 Varanasi, India  
 📧 piyushsinghh.dev@gmail.com  
