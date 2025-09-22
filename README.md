@@ -48,6 +48,11 @@ Eager to contribute to real-world engineering solutions, continuously learn, and
 
 ---
 
+
+## 💻 Programming Knowledge
+- **Python** – Basic knowledge (scripting, simple automation, and problem-solving).  
+
+
 ## 🌐 Languages
 - English  
 - Hindi  
