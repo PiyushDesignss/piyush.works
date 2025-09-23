@@ -8,12 +8,11 @@
 ---
 
 ## 📝 Summary  
-Enthusiastic **Mechanical Engineering fresher** with strong **CAD design skills**, having completed **20+ hands-on projects** in SolidWorks, AutoCAD, and CATIA V5.  
-Eager to grow, learn, and contribute to **real-world engineering solutions**.
+Energetic and detail-oriented **Mechanical Engineering fresher** skilled in **CAD design** with practical experience through over 20 hands-on projects in SolidWorks, AutoCAD, and CATIA V5. Dedicated to continuous learning and contributing to innovative engineering solutions.
 
 ---
 
-## 🌐 Socials
+## 🌐 Social Profiles
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/piyush_singgh)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/piyusdesigns)  
@@ -21,47 +20,48 @@ Eager to grow, learn, and contribute to **real-world engineering solutions**.
 
 ---
 
-## 🛠️ Engineering Tools
+## 🛠️ Technical Skills
 
-[![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E34F26.svg?style=for-the-badge&logo=autodesk&logoColor=white)](#)  
-[![SolidWorks](https://img.shields.io/badge/SolidWorks-%23F05138.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white)](#)  
-[![CATIA V5](https://img.shields.io/badge/CATIA%20V5-%230072C6.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white)](#)  
-[![Engineering Drawing](https://img.shields.io/badge/Engineering%20Drawing-%23000000.svg?style=for-the-badge&logo=blueprint&logoColor=white)](#)  
-[![GD&T](https://img.shields.io/badge/GD%26T-%230078D6.svg?style=for-the-badge&logo=autodesk&logoColor=white)](#)  
-[![BOM](https://img.shields.io/badge/BOM-%23FF6600.svg?style=for-the-badge&logo=databricks&logoColor=white)](#)  
-[![PLM](https://img.shields.io/badge/PLM-%233F51B5.svg?style=for-the-badge&logo=siemens&logoColor=white)](#)  
-
----
-
-## 📊 Knowledge Stats
-
-<div align="center" style="display: flex; gap: 25px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://img.shields.io/badge/AutoCAD-90%25-green?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=000000" alt="AutoCAD" width="120" height="120" style="border-radius:50%">
-  <img src="https://img.shields.io/badge/SolidWorks-85%25-blue?style=for-the-badge&logo=dassaultsystemes&logoColor=white&labelColor=000000" alt="SolidWorks" width="120" height="120" style="border-radius:50%">
-  <img src="https://img.shields.io/badge/CATIA%20V5-80%25-orange?style=for-the-badge&logo=dassaultsystemes&logoColor=white&labelColor=000000" alt="CATIA V5" width="120" height="120" style="border-radius:50%">
-</div>
+- AutoCAD  
+- SolidWorks  
+- CATIA V5  
+- Engineering Drawing  
+- GD&T (Geometric Dimensioning and Tolerancing)  
+- Bill of Materials (BOM) Preparation  
+- Product Lifecycle Management (PLM)  
 
 ---
 
-## 🛠️ Projects
+## 📊 Technical Proficiency  
 
-### 🔹 SolidWorks Projects
-- **3D Modeling of a Gearbox:** Designed a fully parametric gearbox assembly with moving parts.
-- **Hydraulic Jack Design:** Created a functional 3D model simulating movement.
-- **Crankshaft-Piston Assembly:** Modeled engine components and visualized motion in assembly.
-- **Conveyor Belt System:** Designed a complete conveyor system with motorized rollers.
-- **Mechanical Clamping Device:** Developed a 3D model of a clamp with adjustable parts and assembly simulation.
-
-### 🔹 AutoCAD Projects
-- **Mechanical Component Drafting:** Created detailed 2D drawings of gears, shafts, and bearings.
-- **Assembly Drawing of Engine Parts:** Designed an assembly layout of an internal combustion engine.
-- **Structural Framework Design:** Drafted a steel frame structure for a small mechanical setup.
-- **Piping Layout Design:** Developed 2D pipeline diagrams for fluid flow systems.
-- **Mechanical Workshop Layout:** Designed a workshop plan with machines, storage, and safety layout.
+| Tool       | Proficiency   |
+|------------|---------------|
+| AutoCAD    | ![90%](https://img.shields.io/badge/AutoCAD-90%25-brightgreen)   |
+| SolidWorks | ![85%](https://img.shields.io/badge/SolidWorks-85%25-blue)       |
+| CATIA V5   | ![80%](https://img.shields.io/badge/CATIA_V5-80%25-orange)       |
 
 ---
 
-## 🎓 Education
+## 🛠️ Selected Projects  
+
+### SolidWorks  
+- **3D Gearbox Modeling:** Developed a parametric assembly with moving parts.  
+- **Hydraulic Jack Design:** Created a dynamic 3D model simulating actual movement.  
+- **Crankshaft-Piston Assembly:** Modeled engine parts and visualized motion interaction.  
+- **Conveyor Belt System:** Designed a motorized conveyor assembly.  
+- **Mechanical Clamp:** Built adjustable clamping device with assembly simulation.  
+
+### AutoCAD  
+- **Mechanical Component Drafting:** Detailed 2D drawings of gears, shafts, and bearings.  
+- **Engine Assembly Drawing:** Complete assembly layout of an internal combustion engine.  
+- **Steel Framework Design:** Drafted structural framework for machinery setup.  
+- **Piping Layouts:** Developed fluid pipeline schematic diagrams.  
+- **Workshop Layout:** Designed a functional mechanical workshop floor plan.  
+
+---
+
+## 🎓 Education  
+
 - **Diploma in Mechanical Engineering** – Government Polytechnic (2022–2025)  
 - **Mechanical Design Certification** – HCL Tech @ GUVI Geeks (2025–2026)  
 - **12th (Intermediate)** – J.N.S College (2021–2022)  
@@ -69,13 +69,14 @@ Eager to grow, learn, and contribute to **real-world engineering solutions**.
 
 ---
 
-## 🌐 Languages
-- **English**  
+## 🌐 Languages  
+
+- English  
 - Hindi  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Statistics  
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=PiyushDesignss&show_icons=true&count_private=true&hide_border=false&theme=radical&title_color=00ffcc&icon_color=ffcc00&hide_rank=false" alt="GitHub Stats" width="500" />  
